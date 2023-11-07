@@ -4408,5 +4408,50 @@
 "average_speed": 3.2102093135612972,
 "source": "Garmin Connect",
 "streak": 41
+},
+{
+"run_id": 1699265442000,
+"name": "Guangzhou Cycling",
+"distance": 4759.79149524861,
+"moving_time": "0:26:30",
+"type": "Ride",
+"start_date": "2023-11-06 10:10:42",
+"start_date_local": "2023-11-06 18:10:42",
+"location_country": "\u5e9c\u524d\u8def, \u5317\u4eac\u8857\u9053, \u8d8a\u79c0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510180, \u4e2d\u56fd",
+"summary_polyline": "ezdlCirgrTNr@q@zAmKASz@eBCm@r@aA?Y_@mEP_Ic@cFLeAl@uDe@k@VgJPmCj@oAhHYa@GqDe@q@qZ{AaAAg@f@kBQD_BY_@aGoAcAPeWeBiPkD{Nh@aFa@eEnAWSTg@Vd@a@l@mFFEf@b@b@`@QCg@_B@QaAaFpCkN|EuBu@",
+"average_heartrate": 90.0,
+"average_speed": 2.993579556760132,
+"source": "Garmin Connect",
+"streak": 41
+},
+{
+"run_id": 1699267174000,
+"name": "Guangzhou Running",
+"distance": 5205.661472195198,
+"moving_time": "0:30:14",
+"type": "Run",
+"start_date": "2023-11-06 10:39:34",
+"start_date_local": "2023-11-06 18:39:34",
+"location_country": "\u4e91\u57ce\u4e1c\u8def, \u4e09\u5143\u91cc, \u4e09\u5143\u91cc\u8857\u9053, \u767d\u4e91\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510403, \u4e2d\u56fd",
+"summary_polyline": "u{klCukgrTkFkD}CmLoE}B}BI~HnD~@tBjAfGlEfD@dAEo@cCqAmAcBeC_KoHoDrHpDbC~JtE|CA`AIs@oBeAqA}AiCkKsHkDlHhD|@nBjAdGvExDEv@Gs@aE{CwCuKaGkD{@HhHdDtApB~AbHrDrBd@x@b@a@}CwA_BgBoAiLkAyC@y@",
+"average_heartrate": 142.0,
+"average_speed": 2.8697141522575516,
+"source": "Garmin Connect",
+"streak": 41
+},
+{
+"run_id": 1699316251000,
+"name": "Guangzhou Cycling",
+"distance": 5000.799929719123,
+"moving_time": "0:25:59",
+"type": "Ride",
+"start_date": "2023-11-07 00:17:31",
+"start_date_local": "2023-11-07 08:17:31",
+"location_country": "\u4e09\u5143\u91cc\u8857\u9053, \u767d\u4e91\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510403, \u4e2d\u56fd",
+"summary_polyline": "ahllCwdhrTLhAb@HTz@zDa@dK`@^jFbBfHnDw@pFiCWUz@r@pANW~@]YJq@fFMP{@i@SWj@\\R`C_AjA\\z@a@rDNxEk@hGEtHjBhPvA~Bt@bIHpKlAOdCfCa@z`@lBzIqBlKDxKg@`LV`@`@dABdCW~@cAjIi@n@iCMm@",
+"average_heartrate": 105.0,
+"average_speed": 3.2076971967409382,
+"source": "Garmin Connect",
+"streak": 42
 }
 ]
