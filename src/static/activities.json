@@ -4453,5 +4453,35 @@
 "average_speed": 3.2076971967409382,
 "source": "Garmin Connect",
 "streak": 42
+},
+{
+"run_id": 1699354011000,
+"name": "Guangzhou Cycling",
+"distance": 5595.23640266664,
+"moving_time": "0:30:35",
+"type": "Ride",
+"start_date": "2023-11-07 10:46:51",
+"start_date_local": "2023-11-07 18:46:51",
+"location_country": "\u89e3\u653e\u5317\u8def, \u5317\u4eac\u8857\u9053, \u8d8a\u79c0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510180, \u4e2d\u56fd",
+"summary_polyline": "czdlCangrTeAA}@VFRcBe@uDDa@n@_C^Qb@sAGa@_@oIT_KYmBh@kDUoHP_GzAm@~DyAp@At@d@M@gFyA_AyXeAoA?i@h@mAc@Q_BgAo@a[qBuJqAoI{B_Of@sEUoB`@cA|@}@]Zk@ZX]r@_FGSr@j@f@\\OOq@aCa@wE~BqLvDoDuHe@wI}FQeAw@QiBV{AwAoBc@kC`@i@N_F",
+"average_heartrate": 93.0,
+"average_speed": 3.04917515131697,
+"source": "Garmin Connect",
+"streak": 42
+},
+{
+"run_id": 1699365456000,
+"name": "Guangzhou Running",
+"distance": 5596.18576101757,
+"moving_time": "0:30:23",
+"type": "Run",
+"start_date": "2023-11-07 13:57:36",
+"start_date_local": "2023-11-07 21:57:36",
+"location_country": "\u4e09\u5143\u91cc\u8857\u9053, \u767d\u4e91\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510403, \u4e2d\u56fd",
+"summary_polyline": "killCknhrTNfAh@Zs@hAN`A|@dAjAXHhB~L@pA^lCrNuEpCgAP}FmB_CkDqBoJqG{Ca@XVRjHlDnA~HZr@~@JrCxCI`BQiAqBcAg@{@wA{CcAcFeAgByFeCdH`Cp@fAdBzIxBdAjAjBCxADo@mEyDyCsK{GsDbGdCfAbAnBdJvEzCA~@j@c@iD{AgB_DZi@nEg@m@kADcDgBeAkCGOcA_APSoA`@oCwAeC",
+"average_heartrate": 149.0,
+"average_speed": 3.069767285253741,
+"source": "Garmin Connect",
+"streak": 42
 }
 ]
