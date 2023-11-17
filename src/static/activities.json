@@ -9313,5 +9313,20 @@
 "average_speed": 3.283,
 "source": "strava",
 "streak": 50
+},
+{
+"run_id": 10227463024,
+"name": "\u5348\u540e\u8fdc\u8db3",
+"distance": 3880.2,
+"moving_time": "0:32:07",
+"type": "Hike",
+"start_date": "2023-11-16 08:56:43+00:00",
+"start_date_local": "2023-11-16 16:56:43",
+"location_country": "G105, \u6c5f\u57d4\u8857\u9053, \u4ece\u5316\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+"summary_polyline": "qz~nCywntTEQeAeBIUSw@Ia@@SDOHIn@YpAuAHKd@aAFKHUDk@CiAHoAJ{Bj@kCL[HOPERBh@`@ZNZBLERYP{@^w@RcAtA_AX[JQ^WXCLBLFLXXXj@Jd@?\\FL?PB`Aj@JLPh@PdANl@AF@@GHURML@@@TPv@?NO\\_@XC?^WJQBM@MWgADOZc@?Y_@mBGKUU_@QqA]yAUQQUe@GGWEO?OFWX]h@kA|@KRE`@O`@_@vAUf@_@J]IcAu@MCYHMXg@hCKx@O|CBrAEl@[z@MVQXqAlAYR]PML@^ZfA\\v@j@|@L\\@J",
+"average_heartrate": 115.7,
+"average_speed": 2.014,
+"source": "strava",
+"streak": 51
 }
 ]
