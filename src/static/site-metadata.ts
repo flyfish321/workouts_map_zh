@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
-  siteUrl: 'https://freshfish2022.github.io/workouts_map_zh/',
+  siteUrl: 'https://github.com/flyfish321/workouts_map_zh',
   logo: 'https://avatars.githubusercontent.com/u/119868298?v=4',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
@@ -23,7 +23,7 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'About',
-      url: 'https://github.com/Freshfish2022',
+      url: 'https://github.com/flyfish321/workouts_map/blob/master/README-CN.md',
     },
   ],
 };
