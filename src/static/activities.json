@@ -10513,5 +10513,35 @@
 "average_speed": 3.245,
 "source": "strava",
 "streak": 27
+},
+{
+"run_id": 10459713595,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 1653.5,
+"moving_time": "0:06:55",
+"type": "Ride",
+"start_date": "2023-12-30 05:22:39+00:00",
+"start_date_local": "2023-12-30 13:22:39",
+"location_country": "\u5e73\u5b89\u8def, \u677e\u67cf\u5c97, \u666f\u6cf0\u8857\u9053, \u767d\u4e91\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510091, \u4e2d\u56fd",
+"summary_polyline": "y|klCawgrTPZPDRd@PbCb@fANJNRDLJNC^u@T[G",
+"average_heartrate": 110.8,
+"average_speed": 3.984,
+"source": "strava",
+"streak": 28
+},
+{
+"run_id": 10460093452,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 1702.8,
+"moving_time": "0:07:51",
+"type": "Ride",
+"start_date": "2023-12-30 08:32:12+00:00",
+"start_date_local": "2023-12-30 16:32:12",
+"location_country": "\u7ffb\u8eab\u8def, \u6d77\u534e\u793e\u533a, \u65b0\u5b89\u8857\u9053, \u5b9d\u5b89\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "sovhC_obvTd@m@dCgCn@m@^w@V]fBkBj@[TSz@c@\\AjAnA`@j@l@j@^j@HL?JHNNTZ\\X`@\\l@d@l@Pb@@BP@NH@JXb@PPb@p@`@Zz@nAhAjAJNj@^Z`@^\\l@v@zA`B",
+"average_heartrate": 97.4,
+"average_speed": 3.615,
+"source": "strava",
+"streak": 28
 }
 ]
