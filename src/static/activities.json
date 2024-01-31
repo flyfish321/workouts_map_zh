@@ -11308,5 +11308,35 @@
 "average_speed": 4.383,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10657801936,
+"name": "\u5348\u95f4\u9a91\u884c",
+"distance": 1545.0,
+"moving_time": "0:05:41",
+"type": "Ride",
+"start_date": "2024-01-30 03:37:56+00:00",
+"start_date_local": "2024-01-30 11:37:56",
+"location_country": "\u5927\u91d1\u949f\u8def, \u67ef\u5b50\u5cad, \u666f\u6cf0\u8857\u9053, \u767d\u4e91\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510091, \u4e2d\u56fd",
+"summary_polyline": "gvklCosjrTqArAm@^I?[Li@Z_Bv@qB|AoAtAq@`AYn@e@x@o@x@aA`Au@^MN]Tb@TZBVR@HFF`ATRVr@Bn@Fd@CNL^An@FDA@EHTDF?NF^g@xAMx@",
+"average_heartrate": 109.5,
+"average_speed": 4.531,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 10660475284,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 5124.0,
+"moving_time": "0:22:25",
+"type": "Ride",
+"start_date": "2024-01-30 10:21:40+00:00",
+"start_date_local": "2024-01-30 18:21:40",
+"location_country": "\u52a8\u6f2b\u661f\u57ce+KingsWalk, \u4e2d\u5c71\u4e94\u8def, \u5317\u4eac\u8857\u9053, \u8d8a\u79c0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510115, \u4e2d\u56fd",
+"summary_polyline": "ogdlCcjirTCUQo@a@u@e@k@IYO]EUCw@a@gC?gBBm@AM@cBE]EqBQoDEa@?YG]A[SeAGs@IuBFWEy@GI?aAEw@@MO{DFs@AqAFu@Hg@G_CJQC_BDyAA{@@ICe@FwARaB@u@b@aB\\kCLk@^}@VoAf@yAXiAXo@L_@Jk@`@eAN{@d@uBFi@Je@Dq@Lu@FeAJ_@Ew@Fe@EIHQ`@ULc@@YN_@Lu@?a@D]LK@GGaAAc@Pi@Da@A}@HQDU@YKGB@BCFWBE]FKQCDODc@?kAWcAYMAEMY_@}@Sq@Uw@QmA_@wEoC_@OWFRQEJOSWOMCGOw@e@]Qa@]K[iBWeAU",
+"average_heartrate": 108.2,
+"average_speed": 3.81,
+"source": "strava",
+"streak": 3
 }
 ]
