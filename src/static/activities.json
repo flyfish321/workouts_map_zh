@@ -11518,5 +11518,20 @@
 "average_speed": 3.542,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10720580122,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 10203.4,
+"moving_time": "0:57:41",
+"type": "Run",
+"start_date": "2024-02-08 10:53:18+00:00",
+"start_date_local": "2024-02-08 18:53:18",
+"location_country": "\u597d\u65e5\u5b50\u9152\u5e97, \u957f\u5b89\u8def, \u4e94\u91cc\u58a9\u8857\u9053, \u6d49\u6cb3\u533a, \u4fe1\u9633\u5e02, \u6cb3\u5357\u7701, 460041, \u4e2d\u56fd",
+"summary_polyline": "kaccEeycwTNrE@zALtEC`@JhA?zAHv@AlABzAPzD?NEHCHC@FLBALnADnABhAB^EZTbD?n@@f@Nn@Dd@DBDRCp@Dp@J`@HxBTdBPv@HbB?v@FnAA^XjEDxAF|@TbBBb@CZRxB?r@NjBBlAIF?TN^FtBPhC?r@RfBBv@ArASvD?n@Kd@?n@SlBOrCGl@LtCCl@BpBNpBCd@Bj@Ch@EXOd@qAbCe@d@e@v@I\\?FOZs@`A{@h@k@XgBh@q@^sEjEkBtAgA~@eBfBk@f@m@^kDdDkA`AcAdAi@ZWVu@~@Q`@g@`BId@w@fDQTEJGZDRABcAhEy@~DITw@nDS~AGp@@f@Hz@\\|AV~AVdA^jBNh@\\dBN|@Dh@\\xATxA\\|A`ApDp@xBXp@Rt@CCDEPKAC[s@sAiDMWi@aBs@}C_@oCSm@]{AWiBcA{Ec@kCOgB@WN}@d@}BX_A~AsHj@eD~@{Dx@uDTc@tBeCXQt@y@XQ\\a@lAeATYbA}@jB{ANQh@]nBmBtAmA~@q@fB{Al@o@`@]`@Uf@Sh@M|@_@XO~@w@vAoB\\S\\g@VYhAs@r@k@f@g@d@YPAn@_@xAs@fBsAt@aA|AeCNm@JcEBiGJuA@_AVsD?kJBg@Au@DkABq@PqALu@HaALeANcC`@yFb@aEd@{D^mFHsBJy@@{AC_@WsAM_@s@uCu@qF[oE@}@Dm@Nq@d@iBt@iD",
+"average_heartrate": 161.6,
+"average_speed": 2.948,
+"source": "strava",
+"streak": 2
 }
 ]
